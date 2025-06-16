@@ -23,3 +23,19 @@ Install Python dependencies:
 
 ```bash
 pip install -r requirements.txt
+
+---
+
+## 🚀 How to Run
+
+```bash
+python main.py
+
+```bash
+## 📦 Tech Used
+
+- [MediaPipe](https://developers.google.com/mediapipe/solutions/vision/hand_tracking)
+- [OpenCV](https://opencv.org/)
+- [pynput](https://pypi.org/project/pynput/)
+
+
